@@ -1,5 +1,4 @@
-# Database Course Repository
-
+# Introduction to Database 
 This repository contains all the lab tasks and assignments from the Database course, where we were taught using **Oracle 10g**. The tasks include various aspects of database management, including SQL queries, database design, normalization, and more.
 
 ## Table of Contents
