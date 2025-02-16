@@ -37,7 +37,7 @@ To use the scripts or work on the assignments, ensure you have access to an Orac
 
 1. Clone this repository:
     ```bash
-    git clone https://github.com/yourusername/database-course-repository.git
+    git clone https://github.com/meherajhasan/Introduction_to_Database.git
     ```
 
 2. Open Oracle 10g or your preferred database management tool to execute the SQL scripts provided in the repository.
